@@ -1,0 +1,2 @@
+# blog-app
+practice project
